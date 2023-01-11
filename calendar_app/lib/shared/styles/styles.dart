@@ -35,9 +35,9 @@ LinearGradient get orangeGradient {
     begin: Alignment.topCenter,
     end: Alignment.bottomCenter,
     colors: [
-      Colors.amberAccent,
-      Color.fromARGB(255, 255, 222, 104),
-      Colors.amberAccent,
+      Colors.cyan,
+      Color.fromARGB(255, 39, 213, 236),
+      Color.fromARGB(255, 74, 225, 245),
     ],
   );
 }

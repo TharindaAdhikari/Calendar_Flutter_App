@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:hexcolor/hexcolor.dart';
 
-const defaultLightColor = Colors.amber;
+const defaultLightColor = Colors.cyan;
 const defaultDarkColor = Colors.white;
-const defaultWidgetColor = Colors.amber;
+const defaultWidgetColor = Colors.cyan;
 const darkmodeColor = Color(0xFF121212);
 
 class Themes {
